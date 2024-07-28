@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=jYJzzSEAAAAJ&hl=en"
+  googlescholar    : "scholar.google.com/citations?user=jYJzzSEAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-9542-4858"
+  orcid            : "orcid.org/0000-0001-9542-4858"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/zhehuazhou"
+  github           : "zhehuazhou"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "http://www.linkedin.com/in/zhehua-zhou" # Username
+  linkedin         : "zhehua-zhou" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
