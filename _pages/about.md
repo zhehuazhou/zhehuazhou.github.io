@@ -15,6 +15,7 @@ News
 ======
 * <b>05/2024:</b> Our paper "ISR-LLM" was presented at IEEE ICRA 2024!
 * <b>07/2022:</b> I joined the Department of Electrical and Computer Engineering at University of Alberta as a Postdoctoral Research Fellow. 
+* <b>03/2022:</b> I received my Ph.D. degree from the Chair of Automatic Control Engineering (LSR) at the Technical University of Munich (TUM), supervised by Prof. Martin Buss.
 
 Featured Publications
 ======
