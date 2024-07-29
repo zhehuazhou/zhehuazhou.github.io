@@ -13,10 +13,10 @@ My research interests include learning-based control, safe reinforcement learnin
 
 News
 ======
-* <b>05/2024:</b> Our paper "<i>ISR-LLM</i>" was presented at IEEE ICRA 2024!
+* <b>05/2024:</b> Our paper "<i>ISR-LLM</i>" was presented at <b>IEEE ICRA 2024</b>!
 * <b>03/2024:</b> Our paper "Towards" was presented at IEEE ICSE-SEIP 2024!
-* <b>07/2022:</b> I joined the Department of Electrical and Computer Engineering at University of Alberta as a Postdoctoral Research Fellow. 
-* <b>07/2022:</b> I received my Ph.D. degree from the Chair of Automatic Control Engineering (LSR) at the Technical University of Munich (TUM), supervised by Prof. Martin Buss.
+* <b>07/2022:</b> I joined the Department of Electrical and Computer Engineering at <b>University of Alberta</b> as a <b>Postdoctoral Research Fellow</b>. 
+* <b>07/2022:</b> I received my <b>Ph.D.</b> degree from the <b>Chair of Automatic Control Engineering (LSR)</b> at the <b>Technical University of Munich (TUM)</b>, supervised by Prof. Martin Buss.
 
 Featured Publications
 ======
