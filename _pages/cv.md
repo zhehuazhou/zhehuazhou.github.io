@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* B.Eng. in Mechatronics Engineering, Tongji University, Shanghai, PR China, 2010.07 - 2014.07
+* <b>09/2010 - 07/2014:</b> <b>B.Eng.</b> in Mechatronics Engineering, <i>Tongji University</i>, Shanghai, PR China, 
 
 Work experience
 ======
