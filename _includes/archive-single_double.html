@@ -13,13 +13,27 @@
 {% endif %}
 
 <style>
-      #container{
-      width: 100%; overflow: auto;  }
-      .col-1{
-      width: 20%; float: center; overflow: auto; }
-      .col-2{
-      width: 75%; float: left; overflow: auto;}  
-      p{ font-size: 20px; }
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 </style>
 
 <div class="{{ include.type | default: "list" }}__item">
@@ -36,13 +50,13 @@
       </div>
     {% endif %}
 
-    <div class="col-1">
+    <div class="column left">
       {% if post.teaser %}
         <img src= "{{ post.teaser }}" >
       {% endif %}
     </div>
 
-    <div class="col-2">
+    <div class="column right">
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
