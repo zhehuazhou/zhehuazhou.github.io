@@ -12,27 +12,17 @@
   {% assign title = post.title %}
 {% endif %}
 
-/* Create two unequal columns that floats next to each other */
-.column {
-  float: left;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
-
-.left {
-  width: 25%;
-}
-
-.right {
-  width: 75%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+<style>
+      #container{
+      width: 450px; }
+      .col-1{
+      width: 200px; float: left; color: green; font-weight: bold;
+      text-align: center; margin: 10px; border-radius: 20px; background: yellow; }
+      .col-2{
+      width: 200px; float: right; color: green; font-weight: bold;
+      text-align: center; margin: 10px; border-radius: 20px; background: orange; }  
+      p{ font-size: 20px; }
+</style>
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -48,13 +38,13 @@
       </div>
     {% endif %}
 
-    <div class="column left">
+    <div class="col-1">
       {% if post.teaser %}
         <img src= "{{ post.teaser }}" >
       {% endif %}
     </div>
 
-    <div class="column right">
+    <div class="col-2">
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -96,5 +86,6 @@
       <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}
 
+     </div>
   </article>
 </div>
