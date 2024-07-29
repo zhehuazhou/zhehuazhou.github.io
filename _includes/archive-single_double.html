@@ -16,16 +16,18 @@
 /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
-  padding: 10px;
+  padding: 5px;
   align-items: center;
 }
 
 .left {
-  width: 40%;
+  width: 35%;
+  align-items: center;
 }
 
 .right {
-  width: 60%;
+  width: 65%;
+  align-items: center;
 }
 
 /* Clear floats after the columns */
@@ -74,7 +76,7 @@
         {% elsif post.collection == 'publications' %}
           <p> {{ post.authorlist }} <br>
           <i> {{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <br>
-           <font size="-1" color="#B6B6B4">>{{ post.excerpt }}</font> <br>
+           <font color="#625D5D">{{ post.excerpt }}</font> <br>
           <a href=" {{ post.paperurl }} ">PDF</a></p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
