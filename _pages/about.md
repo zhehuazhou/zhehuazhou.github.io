@@ -15,8 +15,9 @@ News
 ======
 * <b>05/2024:</b> Our paper "<i>ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning</i>" was presented at <b>IEEE ICRA 2024</b>!
 * <b>03/2024:</b> Our paper "<i>Towards Building AI-CPS with Nvidia Isaac Sim: An Industrial Benchmark and Case Study for Robotics Manipulation</i>" was presented at <b>IEEE/ACM ICSE-SEIP 2024</b>!
+* <b>02/2024:</b> Our paper "<i>Enabling Versatility and Dexterity of the Dual-Arm Manipulators: A General Framework Toward Universal Cooperative Manipulation</i>" was published on <b>IEEE Transactions on Robotics </b>!
 * <b>07/2022:</b> I gave a talk 
-* <b>07/2022:</b>  
+* <b>07/2022:</b> I gave a talk 
 * <b>10/2022:</b> Our paper "<i>Off-Policy Risk-Sensitive Reinforcement Learning-Based Constrained Robust Optimal Control</i>" was published on <b>IEEE Transactions on Systems, Man, and Cybernetics: Systems</b>!
 * <b>07/2022:</b> I joined the Department of Electrical and Computer Engineering at <b>University of Alberta</b> as a <b>Postdoctoral Research Fellow</b>. 
 * <b>07/2022:</b> I received my <b>Ph.D.</b> degree from the <b>Chair of Automatic Control Engineering (LSR)</b> at the <b>Technical University of Munich (TUM)</b>, supervised by Prof. Martin Buss.
