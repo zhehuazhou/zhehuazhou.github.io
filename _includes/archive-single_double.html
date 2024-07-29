@@ -20,7 +20,7 @@
 /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
-  padding: 10px;
+  padding: 0px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
 
@@ -28,8 +28,16 @@
   width: 40%;
 }
 
+.left img {
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+
+
 .right {
   width: 60%;
+  padding: 1px;
 }
 
 /* Clear floats after the columns */
@@ -85,7 +93,7 @@
 
     <div class="row">
       <div class="column left" style="background-color:#aaa;">
-        <img style="display:block;" width="100%" height="100%" src= "{{ post.teaser }}">
+        <img src= "{{ post.teaser }}">
       </div>
       <div class="column right" style="background-color:#bbb;">
         <h2>Column 2</h2>
