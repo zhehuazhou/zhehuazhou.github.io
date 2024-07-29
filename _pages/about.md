@@ -16,6 +16,7 @@ News
 * <b>05/2024:</b> Our paper "<i>ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning</i>" was presented at <b>IEEE ICRA 2024</b>!
 * <b>03/2024:</b> Our paper "<i>Towards Building AI-CPS with Nvidia Isaac Sim: An Industrial Benchmark and Case Study for Robotics Manipulation</i>" was presented at <b>IEEE/ACM ICSE-SEIP 2024</b>!
 * <b>07/2022:</b> I gave a talk 
+* <b>07/2022:</b>  
 * <b>07/2022:</b> I joined the Department of Electrical and Computer Engineering at <b>University of Alberta</b> as a <b>Postdoctoral Research Fellow</b>. 
 * <b>07/2022:</b> I received my <b>Ph.D.</b> degree from the <b>Chair of Automatic Control Engineering (LSR)</b> at the <b>Technical University of Munich (TUM)</b>, supervised by Prof. Martin Buss.
 * <b>09/2021:</b> Our paper "<i>Learning a Low-Dimensional Representation of a Safe Region for Safe Reinforcement Learning on Dynamical Systems</i>" was published on <b>IEEE Transactions on Neural Networks and Learning Systems</b>!
