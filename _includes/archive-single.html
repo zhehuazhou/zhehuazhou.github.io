@@ -26,9 +26,11 @@
       </div>
     {% endif %}
 
+    {% if post.teaser %}
       <div class="archive__item-teaser">
-        <img src="/images/foo-bar-identity.jpg">
+        <img src=post.teaser>
       </div>
+    {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
