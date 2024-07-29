@@ -77,13 +77,13 @@
     {% endif %}
 
     <div class="col-container">
-    <div class="col-left">
+    <div class="col-left" style="background:orange">
       {% if post.teaser %}
-        <img src= "{{ post.teaser }}" style="margin: 2px 0px 0px 0px;">
+        <!-- <img src= "{{ post.teaser }}" style="margin: 2px 0px 0px 0px;"> -->
       {% endif %}
     </div>
 
-    <div class="col-right">
+    <div class="col-right" style="background:yellow">
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
