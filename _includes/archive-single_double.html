@@ -56,7 +56,7 @@
 .col-left img {
   height: 100%;
   width: 100%;
-  object-fit: contain;
+  object-fit: fill;
 }
 
 .col-right {
@@ -85,7 +85,7 @@
     <div class="col-container">
     <div class="col-left" style="background:orange">
       {% if post.teaser %}
-        <img src= "{{ post.teaser }}" style="margin: 2px 0px 0px 0px;">
+        <img src= "{{ post.teaser }}">
       {% endif %}
     </div>
 
