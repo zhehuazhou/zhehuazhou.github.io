@@ -53,11 +53,8 @@
   vertical-align:top;
   margin-top:0px;
 }
-.col-left img {
-  height: 100%;
-  width: 100%;
-  object-fit: fill;
-}
+
+.fill { object-fit: fill; }
 
 .col-right {
   display: table-cell;
@@ -85,7 +82,7 @@
     <div class="col-container">
     <div class="col-left" style="background:orange">
       {% if post.teaser %}
-        <img src= "{{ post.teaser }}">
+        <img src= "{{ post.teaser }}" class="col-left fill">
       {% endif %}
     </div>
 
