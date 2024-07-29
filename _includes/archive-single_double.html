@@ -21,7 +21,7 @@
 .column {
   float: left;
   padding: 0px;
-  height: 300px;
+  height: 200px;
 }
 
 .left {
@@ -114,14 +114,7 @@
       </div>
     </div>
 
-    <div class="col-container">
-    <div class="col-left" style="background:orange">
-      {% if post.teaser %}
-        <img src= "{{ post.teaser }}">
-      {% endif %}
-    </div>
-
-    <div class="col-right" style="background:yellow">
+    <!-- <div class="col-right" style="background:yellow">
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -144,7 +137,7 @@
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-
+ -->
     <!-- {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
@@ -165,7 +158,7 @@
       <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}
  -->
-     </div>
-     </div>
+     </<!-- div -->>
+     <!-- </div> -->
   </article>
 </div>
