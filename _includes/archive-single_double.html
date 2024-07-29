@@ -48,14 +48,14 @@
 }
 .col-left {
   display: table-cell;
-  padding: 0px;
+  padding: 1px;
   width: 40%;
   vertical-align:top;
   margin-top:0px;
 }
 .col-right {
   display: table-cell;
-  padding: 0px;
+  padding: 1px;
   width: 60%;
   vertical-align:top;
   margin-top:0px;
@@ -79,7 +79,7 @@
     <div class="col-container">
     <div class="col-left">
       {% if post.teaser %}
-        <img src= "{{ post.teaser }}" >
+        <img src= "{{ post.teaser }}" style="margin: 2px 0px 0px 0px;">
       {% endif %}
     </div>
 
