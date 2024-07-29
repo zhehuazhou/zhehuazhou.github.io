@@ -28,7 +28,9 @@ Featured Publications
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single_double.html %}
+  {% if post.highlight == 'yes' %}
+    {% include archive-single_double.html %}
+  {% endif %}
 {% endfor %}
 
 
