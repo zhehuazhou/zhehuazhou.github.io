@@ -14,6 +14,7 @@ My research interests include learning-based control, safe reinforcement learnin
 News
 ======
 * <b>05/2024:</b> Our paper "ISR-LLM" was presented at IEEE ICRA 2024!
+* <b>07/2022:</b> I joined the Department of Electrical and Computer Engineering at University of Alberta as a Postdoctoral Research Fellow. 
 
 Featured Publications
 ======
