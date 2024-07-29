@@ -21,7 +21,7 @@
 .column {
   float: left;
   padding: 0px;
-  height: 200px;
+  height: 220px;
 }
 
 .left {
@@ -48,35 +48,6 @@
 }
 </style>
 
-<style>
-.col-container {
-  display: table;
-  width: 100%;
-  vertical-align:top;
-  margin-top:0px;
-}
-.col-left {
-  display: table-cell;
-  padding: 0px;
-  width: 40%;
-  vertical-align:center;
-  margin-top:0px;
-}
-.col-left img {
-  height: 100%;
-  width: 100%;
-  display: block;
-}
-
-.col-right {
-  display: table-cell;
-  padding: 1px;
-  width: 60%;
-  vertical-align:top;
-  margin-top:0px;
-}
-</style>
-
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -92,12 +63,12 @@
     {% endif %}
 
     <div class="row">
-      <div class="column left" style="background-color:#aaa;">
+      <div class="column left">
         {% if post.teaser %}
           <img src= "{{ post.teaser }}">
         {% endif %}
       </div>
-      <div class="column right" style="background-color:#bbb;">
+      <div class="column right">
         <h2 class="archive__item-title" itemprop="headline">
           {% if post.link %}
             <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
