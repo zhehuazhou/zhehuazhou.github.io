@@ -14,6 +14,14 @@ My research interests include learning-based control, safe reinforcement learnin
 News
 ======
 
+Featured Publications
+======
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 A data-driven personal website
 ======
