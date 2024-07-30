@@ -75,7 +75,7 @@
         </h2>
         {% if post.collection == 'publications' %}
           <p> {{ post.authorlist }} <br>
-          <i> {{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <br>
+          <i> {{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y%M" }} <br>
            <font color="#797979">{{ post.excerpt }}</font> <br>
           <a href=" {{ post.paperurl }} ">PDF</a></p>
         {% endif %}
