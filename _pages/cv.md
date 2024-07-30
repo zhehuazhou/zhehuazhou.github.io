@@ -58,10 +58,20 @@ Research Projects and Collaborations
   * Developed safety analysis approaches for AI-CPSs across various application domains
   * Evaluated the performance and reliability of AI components in CPSs
 
+* <b>2022 - 2023:</b> <b>Benchmarking and Evaluating AI-enabled Cyber-Physical Systems (AI-CPSs) for Robotic Manipulation</b> at <i>University of Alberta</i>
+  * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
+  * Collaboration with NVIDIA AI Tech Centre, Singapore
+  * Developed a benchmark and an evaluation framework for AI-CPSs in robotic manipulation using NVIDIA Isaac Sim
+  * Conducted performance and safety analysis for AI-CPSs in diverse robotic manipulation tasks
+
+* <b>2022 - 2023:</b> <b>Benchmarking and Evaluating AI-enabled Cyber-Physical Systems (AI-CPSs) for Robotic Manipulation</b> at <i>University of Alberta</i>
+  * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
+  * Collaboration with NVIDIA AI Tech Centre, Singapore
+  * Developed a benchmark and an evaluation framework for AI-CPSs in robotic manipulation using NVIDIA Isaac Sim
+  * Conducted performance and safety analysis for AI-CPSs in diverse robotic manipulation tasks
+
 Publications
 ======
-
-Jounal 
 
 <h2>Journal</h2>
 {% for post in site.publications reversed %}
