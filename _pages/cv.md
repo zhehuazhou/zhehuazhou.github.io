@@ -49,10 +49,30 @@ Research Projects and Collaborations
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+Jounal 
+
+<h2>Journal</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'journal' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Conference</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'conference' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Preprint</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'preprint' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
