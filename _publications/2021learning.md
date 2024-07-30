@@ -3,7 +3,7 @@ title: "Learning a Low-Dimensional Representation of a Safe Region for Safe Rein
 collection: publications
 permalink: /publication/2021learning
 authorlist: '<b>Zhehua Zhou</b>, Ozgur S Oguz, Marion Leibold, Martin Buss'
-excerpt: 'In this article, we propose a general data-driven approach that is able to efficiently learn a low-dimensional representation of the safe region for safe reinforcement learning.'
+excerpt: 'In this article, we propose a general data-driven model order reduction approach for safe reinforcement learning.'
 date: 2021-09-03
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
