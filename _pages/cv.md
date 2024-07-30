@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Research Interests
 ======
-* <b>08/2017 - 07/2022:</b> <b>Ph.D.</b> in Electrical and Computer Engineering (Automatic Control and Robotics), <i>Technical University of Munich</i>, Munich, Germany 
-* <b>10/2014 - 03/2017:</b> <b>M.Sc.</b> in Electrical and Computer Engineering, <i>Technical University of Munich</i>, Munich, Germany 
-* <b>09/2010 - 07/2014:</b> <b>B.Eng.</b> in Mechatronics Engineering, <i>Tongji University</i>, Shanghai, PR China
+Learning-based Control, Safe Reinforcement Learning, AI/ML in Robotics, AI-enabled Robotic System, Safety and Quality Assurance, Cyber-Physical System
 
-Work experience
+Work Experience
 ======
 * <b>07/2022 - Current:</b> <b>Postdoctoral Research Fellow</b> at <i>University of Alberta</i>
   * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
@@ -28,6 +26,12 @@ Work experience
 * <b>11/2016 - 06/2017:</b> <b>Research Intern</b> at <i>Technical University of Munich</i>
   * Advisor: PD Dr.-Ing. habil. Dirk Wollherr
   * Designed learning-based human motion prediction framework for safe human-robot interaction in close-proximity
+
+Education
+======
+* <b>08/2017 - 07/2022:</b> <b>Ph.D.</b> in Electrical and Computer Engineering (Automatic Control and Robotics), <i>Technical University of Munich</i>, Munich, Germany 
+* <b>10/2014 - 03/2017:</b> <b>M.Sc.</b> in Electrical and Computer Engineering, <i>Technical University of Munich</i>, Munich, Germany 
+* <b>09/2010 - 07/2014:</b> <b>B.Eng.</b> in Mechatronics Engineering, <i>Tongji University</i>, Shanghai, PR China
 
 Research Projects and Collaborations
 ======
