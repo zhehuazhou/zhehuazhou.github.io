@@ -95,12 +95,24 @@ Publications
   {% endif %}
 {% endfor %}
 
-Talks
+Professional Activities
 ======
+<h2>Talks</h2>
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
+<h2>Reviewer</h2>
+* IEEE Transactions on Robotics (T-RO)
+* IEEE Transactions on Automatic Control (TAC)
+* IEEE Transactions on Neural Network and Learning Systems (TNNLS)
+* IEEE Robotics and Automation Letters (RA-L)
+* IEEE International Conference on Robotics and Automation (ICRA)
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+* IEEE Conference on Decision and Control (CDC)
+* European Control Conference (ECC)
+* World Congress of the International Federation of Automatic Control (IFAC)
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
