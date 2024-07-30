@@ -7,7 +7,7 @@ excerpt: 'In this work, we introduce a hierarchical policy structure that select
 date: 2020-06-01
 venue: 'Robotics: Science and Systems (RSS) Conference 2020 - Learning in Task and Motion Planning Workshop'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.academia.edu/download/99743486/20-oz-RSSws-ltamp.pdf'
+paperurl: 'https://argmin.lis.tu-berlin.de/papers/20-oz-RSSws-ltamp.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 pubtype: 'conference'
 highlight: 'no'
