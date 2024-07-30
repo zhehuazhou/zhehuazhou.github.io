@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* <b>07/2022 - current:</b> <b>Postdoctoral Research Fellow</b> at <i>University of Alberta</i>
+* <b>07/2022 - Current:</b> <b>Postdoctoral Research Fellow</b> at <i>University of Alberta</i>
   * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
   * Developing AI-enabled robotic systems and cyper-physical systems with safety and reliability guarantees
   * University research projects: FES and MIF-RCES
@@ -35,7 +35,11 @@ Work experience
 
 Research Projects and Collaborations
 ======
-*
+* <b>2024 - Current:</b> <b>Quality and Safety Assurance for AI-enabled Autonomous Driving Systems</b> at <i>University of Alberta</i>
+  * Advisor: Assoc. Prof. Lei Ma
+  * Collaboration with TIER IV, Tokyo, Japan
+  * Developing AI-based perception and control modules for autonomous driving systems
+  * Integrating quality and safety assurance into AI-enabled autonomous driving systems
 
 Publications
 ======
