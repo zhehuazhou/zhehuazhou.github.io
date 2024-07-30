@@ -74,21 +74,21 @@ Research Projects and Collaborations
 Publications
 ======
 
-<h2>Journal</h2>
+<h1>Journal</h1>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h2>Conference</h2>
+<h1>Conference</h1>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'conference' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h2>Preprint</h2>
+<h1>Preprint</h1>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'preprint' %}
     {% include archive-single.html %}
@@ -97,12 +97,12 @@ Publications
 
 Professional Activities
 ======
-<h2>Talks</h2>
+<h1>Talks</h1>
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-<h2>Reviewer</h2>
+<h1>Reviewer</h1>
 * IEEE Transactions on Robotics (T-RO)
 * IEEE Transactions on Automatic Control (TAC)
 * IEEE Transactions on Neural Network and Learning Systems (TNNLS)
@@ -119,6 +119,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
