@@ -47,6 +47,17 @@ Research Projects and Collaborations
   * Investigating the application of AI approaches in power grids and energy systems
   * Developing a testing and evaluation framework for AI-enabled energy systems
 
+* <b>2023 - Current:</b> <b>Application of Foundation Models in Robotics with Safety Assurance</b> at <i>University of Alberta</i>
+  * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
+  * Developing intelligent robotic systems guided by foundation models, e.g., Large Language Models (LLMs)
+  * Incorporating safety assurance to robotic systems controlled by cutting-edge AI methods
+
+* <b>2022 - 2023:</b> <b>Safety and Reliability Assurance of Next Generation AI-enabled Cyber-Physical Systems (AI-CPSs) for Energy Systems</b> at <i>University of Alberta</i>
+  * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
+  * University research project: Future Energy Systems (FES)
+  * Developed safety analysis approaches for AI-CPSs across various application domains
+  * Evaluated the performance and reliability of AI components in CPSs
+
 Publications
 ======
 
