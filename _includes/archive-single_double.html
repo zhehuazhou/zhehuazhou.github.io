@@ -29,7 +29,6 @@
 }
 
 .left img {
-  height: 95%;
   width: 95%;
   display: block;
 }
@@ -40,6 +39,12 @@
   padding: 0px;
   vertical-align: center;
   margin-top: 0px;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 }
