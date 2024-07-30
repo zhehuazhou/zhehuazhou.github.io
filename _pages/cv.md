@@ -74,21 +74,21 @@ Research Projects and Collaborations
 Publications
 ======
 
-<h1>Journal</h1>
+<h2>Journal</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h1>Conference</h1>
+<h2>Conference</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'conference' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h1>Preprint</h1>
+<h2>Preprint</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'preprint' %}
     {% include archive-single.html %}
@@ -97,12 +97,12 @@ Publications
 
 Professional Activities
 ======
-<h1>Talks</h1>
+<h2>Talks</h2>
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-<h1>Reviewer</h1>
+<h2>Reviewer</h2>
 * IEEE Transactions on Robotics (T-RO)
 * IEEE Transactions on Automatic Control (TAC)
 * IEEE Transactions on Neural Network and Learning Systems (TNNLS)
