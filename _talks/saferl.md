@@ -1,7 +1,7 @@
 ---
 title: "Safe Reinforcement Learning with Model Order Reduction Techniques"
 collection: talks
-type: "Talk"
+type: "Invited Talk"
 permalink: /talks/saferl
 venue: "The 1st International Workshop on Safe Reinforcement Learning Theory and its Applications, 2022 IEEE International Conference on Multi-sensor Fusion and Integration (MFI 2022)"
 date: 2022-09-21
