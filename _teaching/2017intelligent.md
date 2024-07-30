@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant, Intelligent Control Process"
+title: "Teaching Assistant, Intelligent Control Process (WS2017)"
 collection: teaching
 type: "Master's course"
 permalink: /teaching/ta_icp2017

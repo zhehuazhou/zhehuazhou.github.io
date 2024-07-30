@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant, Project Course: Cognitive Robotics and Control"
+title: "Teaching Assistant, Project Course: Cognitive Robotics and Control (WS2017)"
 collection: teaching
 type: "Master's course"
 permalink: /teaching/ta_project2017
