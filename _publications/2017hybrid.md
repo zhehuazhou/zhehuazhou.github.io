@@ -2,7 +2,7 @@
 title: "A Hybrid Framework for Understanding and Predicting Human Reaching Motions"
 collection: publications
 permalink: /publication/2017hybrid
-authorlist: 'Ozgur S Oguz, <b>Zhehua Zhou</b>, Dirk Wollherr	'
+authorlist: 'Ozgur S Oguz, <b>Zhehua Zhou</b>, Dirk Wollherr'
 excerpt: 'In this work, we propose a hybrid framework for understanding and predicting human reaching motions for human-robot collaboration.'
 date: 2018-03-27
 venue: 'Frontiers in Robotics and AI'
