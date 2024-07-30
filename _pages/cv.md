@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* <b>09/2010 - 07/2014:</b> <b>B.Eng.</b> in Mechatronics Engineering, <i>Tongji University</i>, Shanghai, PR China, 
+* <b>08/2017 - 07/2022:</b> <b>Ph.D.</b> in Electrical and Computer Engineering (Automatic Control and Robotics), <i>Technical University of Munich</i>, Munich, Germany 
+* <b>10/2014 - 03/2017:</b> <b>M.Sc.</b> in Electrical and Computer Engineering, <i>Technical University of Munich</i>, Munich, Germany 
+* <b>09/2010 - 07/2014:</b> <b>B.Eng.</b> in Mechatronics Engineering, <i>Tongji University</i>, Shanghai, PR China
 
 Work experience
 ======
