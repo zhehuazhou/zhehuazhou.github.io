@@ -41,6 +41,12 @@ Research Projects and Collaborations
   * Developing AI-based perception and control modules for autonomous driving systems
   * Integrating quality and safety assurance into AI-enabled autonomous driving systems
 
+* <b>2024 - Current:</b> <b>AI-enabled Resilient Grid for Clean Energy Integration</b> at <i>University of Alberta</i>
+  * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
+  * University research project: Major Innovation Fund - Resilient And Clean Energy Systems (MIF-RCES)
+  * Investigating the application of AI approaches in power grids and energy systems
+  * Developing a testing and evaluation framework for AI-enabled energy systems
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
