@@ -17,29 +17,21 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* <b>07/2022 - current:</b> <b>Postdoctoral Research Fellow</b> at <i>University of Alberta</i>
+  * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
+  * Developing AI-enabled robotic systems and cyper-physical systems with safety and reliability guarantees
+  * University research projects: FES and MIF-RCES
+  * Industrial collaboration projects with Nvidia and TIER IV
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <b>08/2017 - 03/2022:</b> <b>Research Associate (Scientific Employee)</b> at <i>Technical University of Munich</i>
+  * Advisor: Univ. Prof. Dr.-Ing./Univ. Tokio habil. Martin Buss
+  * Designed general safe reinforcement learning approaches and AI-based control frameworks for robotic systems
+  * Industrial collaboration projects with BMW and Tencent
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* <b>11/2016 - 06/2017:</b> <b>Research Intern</b> at <i>Technical University of Munich</i>
+  * Advisor: PD Dr.-Ing. habil. Dirk Wollherr
+  * Designed learning-based human motion prediction framework for safe human-robot interaction in close-proximity
+  * Industrial collaboration project with Siemens
 
 Publications
 ======
