@@ -66,6 +66,7 @@
         {% endif %}
       </div>
       <div class="column right">
+        <font size="-1">
         <h2 class="archive__item-title" itemprop="headline">
           {% if post.link %}
             <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -79,6 +80,7 @@
            <font color="#797979">{{ post.excerpt }}</font> <br>
           <a href=" {{ post.paperurl }} ">PDF</a></p>
         {% endif %}
+        </font>
       </div>
     </div>
 
