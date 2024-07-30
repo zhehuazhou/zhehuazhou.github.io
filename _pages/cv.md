@@ -33,6 +33,10 @@ Work experience
   * Designed learning-based human motion prediction framework for safe human-robot interaction in close-proximity
   * Industrial collaboration project with Siemens
 
+Research Projects and Collaborations
+======
+*
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
