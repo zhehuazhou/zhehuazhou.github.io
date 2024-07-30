@@ -20,30 +20,24 @@ Work experience
 * <b>07/2022 - Current:</b> <b>Postdoctoral Research Fellow</b> at <i>University of Alberta</i>
   * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
   * Developing AI-enabled robotic systems and cyper-physical systems with safety and reliability guarantees
-  * University research projects: FES and MIF-RCES
-  * Industrial collaboration projects with Nvidia and TIER IV
 
 * <b>08/2017 - 03/2022:</b> <b>Research Associate (Scientific Employee)</b> at <i>Technical University of Munich</i>
   * Advisor: Univ. Prof. Dr.-Ing./Univ. Tokio habil. Martin Buss
   * Designed general safe reinforcement learning approaches and AI-based control frameworks for robotic systems
-  * Industrial collaboration projects with BMW and Tencent
 
 * <b>11/2016 - 06/2017:</b> <b>Research Intern</b> at <i>Technical University of Munich</i>
   * Advisor: PD Dr.-Ing. habil. Dirk Wollherr
   * Designed learning-based human motion prediction framework for safe human-robot interaction in close-proximity
-  * Industrial collaboration project with Siemens
 
 Research Projects and Collaborations
 ======
 * <b>2024 - Current:</b> <b>Quality and Safety Assurance for AI-enabled Autonomous Driving Systems</b> at <i>University of Alberta</i>
   * Advisor: Assoc. Prof. Lei Ma
-  * Collaboration with TIER IV, Tokyo, Japan
   * Developing AI-based perception and control modules for autonomous driving systems
   * Integrating quality and safety assurance into AI-enabled autonomous driving systems
 
 * <b>2024 - Current:</b> <b>AI-enabled Resilient Grid for Clean Energy Integration</b> at <i>University of Alberta</i>
   * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
-  * University research project: Major Innovation Fund - Resilient And Clean Energy Systems (MIF-RCES)
   * Investigating the application of AI approaches in power grids and energy systems
   * Developing a testing and evaluation framework for AI-enabled energy systems
 
@@ -54,21 +48,28 @@ Research Projects and Collaborations
 
 * <b>2022 - 2023:</b> <b>Safety and Reliability Assurance of Next Generation AI-enabled Cyber-Physical Systems (AI-CPSs) for Energy Systems</b> at <i>University of Alberta</i>
   * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
-  * University research project: Future Energy Systems (FES)
   * Developed safety analysis approaches for AI-CPSs across various application domains
   * Evaluated the performance and reliability of AI components in CPSs
 
 * <b>2022 - 2023:</b> <b>Benchmarking and Evaluating AI-enabled Cyber-Physical Systems (AI-CPSs) for Robotic Manipulation</b> at <i>University of Alberta</i>
   * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
-  * Collaboration with NVIDIA AI Tech Centre, Singapore
   * Developed a benchmark and an evaluation framework for AI-CPSs in robotic manipulation using NVIDIA Isaac Sim
   * Conducted performance and safety analysis for AI-CPSs in diverse robotic manipulation tasks
 
-* <b>2022 - 2023:</b> <b>Benchmarking and Evaluating AI-enabled Cyber-Physical Systems (AI-CPSs) for Robotic Manipulation</b> at <i>University of Alberta</i>
-  * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
-  * Collaboration with NVIDIA AI Tech Centre, Singapore
-  * Developed a benchmark and an evaluation framework for AI-CPSs in robotic manipulation using NVIDIA Isaac Sim
-  * Conducted performance and safety analysis for AI-CPSs in diverse robotic manipulation tasks
+* <b>2020 - 2021:</b> <b>AI-based Control Framework for Dual-Arm Robotic Manipulator System</b> at <i>Technical University of Munich</i>
+  * Advisor: Univ. Prof. Dr.-Ing./Univ. Tokio habil. Martin Buss
+  * Proposed an AI-based control framework for dual-arm robots, covering the entire perception-planning-control pipeline
+  * Applied to various real-world dual-arm manipulation tasks
+
+* <b>2018 - 2020:</b> <b>Safe Reinforcement Learning for Dynamical and Robotic Systems</b> at <i>Technical University of Munich</i>
+  * Advisor: Univ. Prof. Dr.-Ing./Univ. Tokio habil. Martin Buss
+  * Proposed general safe reinforcement learning frameworks for complex dynamical and robotic systems
+  * Applied to diverse robotic systems, including UAVs, robotic manipulators, humanoids, and mobile robots
+
+* <b>2016 - 2017:</b> <b>Understanding and Predicting Human Reaching Motions for Safe Close-Proximity Human-Robot Interaction</b> at <i>Technical University of Munich</i>
+  * Advisor: PD Dr.-Ing. habil. Dirk Wollherr
+  * Designed a learning-based human motion prediction framework for safe human-robot interaction in close-proximity
+  * Validated and applied to real-world assembly tasks
 
 Publications
 ======
