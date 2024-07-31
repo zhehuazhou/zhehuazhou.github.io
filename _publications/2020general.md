@@ -9,7 +9,7 @@ venue: 'IEEE Transactions on Robotics'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9106864'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-teaser: '/images/2020general.gif'
+teaser: '/images/2020general.png'
 pubtype: 'journal'
 highlight: 'yes'
 ---
