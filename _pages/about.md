@@ -13,6 +13,7 @@ My research interests include learning-based control, safe reinforcement learnin
 
 News
 ======
+* <b>01/2025:</b> Our paper "<i>Multilingual Blending: LLM Safety Alignment Evaluation with Language Mixture</i>" was accpeted by <b>NAACL 2025</b>!
 * <b>11/2024:</b> Our paper "<i>GenSafe: A Generalizable Safety Enhancer for Safe Reinforcement Learning Algorithms Based on Reduced Order Markov Decision Process Model</i>" was published on <b>IEEE Transactions on Neural Networks and Learning Systems</b>!
 * <b>06/2024:</b> We gave a tutorial on "<i>Quality Assurance for Autonomous Driving Systems: A Software Engineering Perspective</i>" at <b>Autoware Tutorial, IEEE IV 2024</b>.
 * <b>05/2024:</b> Our paper "<i>ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning</i>" was presented at <b>IEEE ICRA 2024</b>!

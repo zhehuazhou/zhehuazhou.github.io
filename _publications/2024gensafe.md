@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024gensafe
 authorlist: '<b>Zhehua Zhou</b>, Xuan Xie, Jiayang Song, Zhan Shu, Lei Ma'
 excerpt: 'In this work, we introduce a Genralizable Safety enhancer (GenSafe) to improve the safety performance of safe reinforcement learning algorithms.'
-date: 2024-06-06
+date: 2024-11-25
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/10766903'

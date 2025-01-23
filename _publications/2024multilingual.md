@@ -5,11 +5,11 @@ permalink: /publication/2024multilingual
 authorlist: 'Jiayang Song, Yuheng Huang, <b>Zhehua Zhou</b>, Lei Ma'
 excerpt: 'In this work, we introduce Multilingual Blending, a mixed-language query-response scheme designed to evaluate the safety alignment of various state-of-the-art LLMs.'
 date: 2024-07-10
-venue: 'ArXiv Preprint:2407.07342'
+venue: '2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2407.07342'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-pubtype: 'preprint'
+pubtype: 'conference'
 highlight: 'no'
 ---
 
