@@ -24,7 +24,7 @@ Available Positions:
 News
 ======
 * <b>08/2025:</b> I joined the Department of Electromechanical Engineering at <b>University of Macau</b> as an <b>Assistant Professor</b>. 
-* <b>03/2025:</b> Our paper "<i>VLATest: Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation</i>" was presented at <b>ACM FSE 2025</b>!
+* <b>06/2025:</b> Our paper "<i>VLATest: Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation</i>" was presented at <b>ACM FSE 2025</b>!
 * <b>01/2025:</b> Our paper "<i>Multilingual Blending: LLM Safety Alignment Evaluation with Language Mixture</i>" was accpeted by <b>NAACL 2025</b>!
 * <b>11/2024:</b> Our paper "<i>GenSafe: A Generalizable Safety Enhancer for Safe Reinforcement Learning Algorithms Based on Reduced Order Markov Decision Process Model</i>" was published on <b>IEEE Transactions on Neural Networks and Learning Systems</b>!
 * <b>06/2024:</b> We gave a tutorial on "<i>Quality Assurance for Autonomous Driving Systems: A Software Engineering Perspective</i>" at <b>Autoware Tutorial, IEEE IV 2024</b>.
