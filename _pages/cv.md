@@ -11,21 +11,24 @@ redirect_from:
 
 Research Interests
 ======
-Learning-based Control, Safe Reinforcement Learning, AI/ML in Robotics, AI-enabled Robotic System, Safety and Quality Assurance, Cyber-Physical System
+* Learning-based control and optimal control
+* Dexterous manipulation, robot control, and motion planning
+* RL/ML in robotics, imitation learning, and transfer learning
+* Embodied AI for robotic systems
+* Safety analysis for AI-driven robotic system
 
 Work Experience
 ======
-* <b>07/2022 - Current:</b> <b>Postdoctoral Research Fellow</b> at <i>University of Alberta</i>
+* <b>08/2025 - Present:</b> <b>Assistant Professor</b> at <i>University of Macau</i>
+
+* <b>07/2022 - 05/2025:</b> <b>Postdoctoral Research Fellow</b> at <i>University of Alberta</i>
   * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
-  * Developing AI-enabled robotic systems and cyper-physical systems with safety and reliability guarantees
 
 * <b>08/2017 - 03/2022:</b> <b>Research Associate (Scientific Employee)</b> at <i>Technical University of Munich</i>
   * Advisor: Univ. Prof. Dr.-Ing./Univ. Tokio habil. Martin Buss
-  * Designed general safe reinforcement learning approaches and AI-based control frameworks for robotic systems
 
 * <b>11/2016 - 06/2017:</b> <b>Research Intern</b> at <i>Technical University of Munich</i>
   * Advisor: PD Dr.-Ing. habil. Dirk Wollherr
-  * Designed learning-based human motion prediction framework for safe human-robot interaction in close-proximity
 
 Education
 ======
@@ -35,17 +38,17 @@ Education
 
 Research Projects and Collaborations
 ======
-* <b>2024 - Current:</b> <b>Quality and Safety Assurance for AI-enabled Autonomous Driving Systems</b> at <i>University of Alberta</i>
+* <b>2024 - 2025:</b> <b>Quality and Safety Assurance for AI-enabled Autonomous Driving Systems</b> at <i>University of Alberta</i>
   * Advisor: Assoc. Prof. Lei Ma
   * Developing AI-based perception and control modules for autonomous driving systems
   * Integrating quality and safety assurance into AI-enabled autonomous driving systems
 
-* <b>2024 - Current:</b> <b>AI-enabled Resilient Grid for Clean Energy Integration</b> at <i>University of Alberta</i>
+* <b>2024 - 2025:</b> <b>AI-enabled Resilient Grid for Clean Energy Integration</b> at <i>University of Alberta</i>
   * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
   * Investigating the application of AI approaches in power grids and energy systems
   * Developing a testing and evaluation framework for AI-enabled energy systems
 
-* <b>2023 - Current:</b> <b>Application of Foundation Models in Robotics with Safety Assurance</b> at <i>University of Alberta</i>
+* <b>2023 - 2025:</b> <b>Application of Foundation Models in Robotics with Safety Assurance</b> at <i>University of Alberta</i>
   * Advisors: Assoc. Prof. Lei Ma, Prof. Zhan Shu
   * Developing intelligent robotic systems guided by foundation models, e.g., Large Language Models (LLMs)
   * Incorporating safety assurance to robotic systems controlled by cutting-edge AI methods
@@ -81,6 +84,11 @@ Professional Activities
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+<h2>Contributor/Organizer</h2>
+* <b>Program Committee (PC)</b> of 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), Dec, 2024
+* <b>Program Committee (PC)</b> of IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) - Early Research Achievement (ERA) Track, Nov, 2024
+* <b>Program Committee (PC)</b> of 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025) - Software Engineering in Practice (SEIP) Track, Oct, 2024
   
 <h2>Reviewer</h2>
 * IEEE Transactions on Robotics (T-RO)
@@ -92,6 +100,8 @@ Professional Activities
 * IEEE Conference on Decision and Control (CDC)
 * European Control Conference (ECC)
 * World Congress of the International Federation of Automatic Control (IFAC)
+* Annual AAAI Conference on Artificial Intelligence (AAAI)
+* International Conference on Software Engineering (ICSE)
 
 Teaching
 ======
