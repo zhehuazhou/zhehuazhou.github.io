@@ -7,9 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Research Fellow in the Department of Electrical and Computer Engineering at [University of Alberta](https://www.ualberta.ca/index.html), under the mentorship of Prof. Lei Ma and Prof. Zhan Shu. I received my Ph.D. from the [Technical University of Munich](https://www.tum.de/) in 2022, where I specialized in automatic control and robotics under the supervision of Prof. Martin Buss.
+I am currently an Assistant Professor in the Department of Electromechanical Engineering at [University of Macau](https://www.um.edu.mo/). My research interests include:
 
-My research interests include learning-based control, safe reinforcement learning, Artificial Intelligence (AI) and Machine Learning (ML) approaches, and their applications in robotics and cyber-physical systems. I am focused on developing intelligent and robust AI-enabled autonomous and robotic systems with safety and reliability guarantees, ensuring their applicability to a wide range of complex real-world tasks and scenarios.
+* Learning-based control and optimal control
+* Dexterous manipulation, robot control, and motion planning
+* RL/ML in robotics, imitation learning, and transfer learning
+* Embodied AI for robotic systems
+* Safety analysis for AI-driven robotic system
+
+I am focused on developing intelligent and robust AI-enabled autonomous and robotic systems with safety and reliability guarantees, ensuring their applicability to a wide range of complex real-world tasks and scenarios. Prior to joining the University of Macau, I was a Postdoctoral Research Fellow in the Department of Electrical and Computer Engineering at [University of Alberta](https://www.ualberta.ca/index.html) from 2022 to 2025, under the mentorship of Prof. Lei Ma and Prof. Zhan Shu. I received my Ph.D. from the [Technical University of Munich](https://www.tum.de/) in 2022, where I specialized in automatic control and robotics under the supervision of Prof. Martin Buss.
+
+Available Positions:
+======
+<b>Seeking exceptional Ph.D., Master's, and Research Assistant (RA) candidates passionate about robotics research.</b> We are looking for highly motivated students with strong academic backgrounds and a drive to tackle cutting-edge challenges in robotics. Competitive funding/support is available for outstanding applicants. Feel free to reach me at zhzhou@um.edu.mo
 
 News
 ======

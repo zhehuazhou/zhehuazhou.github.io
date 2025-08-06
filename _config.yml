@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_zhehua.jpeg"
+  avatar           : "Photo_Zhehua_Zhou.jpeg"
   name             : "Zhehua Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Research Fellow"
-  location         : "Edmonton, AB, Canada"
-  employer         : "University of Alberta"
+  bio              : "Assistant Professor"
+  location         : "Macau SAR, China"
+  employer         : "University of Macau"
   uri              : # URL
-  email            : "zhehua1@ualberta.ca" 
+  email            : "zhzhou@um.edu.mo" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
