@@ -23,6 +23,7 @@ Available Positions:
 
 News
 ======
+* <b>09/2025:</b> Our paper "<i>Online Safety Analysis for LLMs: a Benchmark, an Assessment, and a Path Forward</i>" was published on <b>IEEE Transactions on Artificial Intelligence</b>!
 * <b>08/2025:</b> I joined the Department of Electromechanical Engineering at <b>University of Macau</b> as an <b>Assistant Professor</b>. 
 * <b>06/2025:</b> Our paper "<i>VLATest: Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation</i>" was presented at <b>ACM FSE 2025</b>!
 * <b>01/2025:</b> Our paper "<i>Multilingual Blending: LLM Safety Alignment Evaluation with Language Mixture</i>" was accpeted by <b>NAACL 2025</b>!
